@@ -39,4 +39,8 @@ Make sure the following are installed on your system:
 ---
 
 ## 📂 How to Clone the Project
+
 git clone https://github.com/saikrishna630/BankApplication.git
+
+By
+Pabbu Sai Krishna
